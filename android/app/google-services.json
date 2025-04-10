@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "164648465017",
+    "project_id": "aspirearc",
+    "storage_bucket": "aspirearc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164648465017:android:fe47e641df663576819aa8",
+        "android_client_info": {
+          "package_name": "com.example.aspire_arc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJKbgdQa979OM2EB3z7vd1r08qXMdXd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164648465017:android:3365039715447450819aa8",
+        "android_client_info": {
+          "package_name": "com.example.aspirearc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJKbgdQa979OM2EB3z7vd1r08qXMdXd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164648465017:android:6d84a5e2f104ffda819aa8",
+        "android_client_info": {
+          "package_name": "com.example.jrs_model"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJKbgdQa979OM2EB3z7vd1r08qXMdXd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
